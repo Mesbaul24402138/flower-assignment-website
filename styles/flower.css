@@ -121,9 +121,7 @@ align-items: end;
   
 }
 
-/* .banner-image{
-  width: 100%;
-} */
+
 
 .banner-content-title{
     font-size: 4rem;
@@ -176,9 +174,6 @@ align-items: end;
 
 
 
-/* eeeeeeeeeeeeee */
-
-
 .Plants-Lover{
   width: 100%;
     display: grid;
@@ -205,7 +200,7 @@ align-items: end;
 position: absolute;
   top: -130px;
   right: 5px;
-/* transform: translate(150px,-150px); */
+
   width: 300px;
   height: 300px;
   z-index: 10;
