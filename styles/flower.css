@@ -446,10 +446,8 @@ footer {
 
 /* responsive Design Mobile */
 
-/* @media screen and (max-with: 576px) {
-  
-  
-} */
+
+
 
 /* Mobile View (max-width: 768px) */
 @media (max-width: 576px) {
@@ -514,9 +512,7 @@ footer {
 
 /* Our Plants media */
 
-/* section{
-  margin: 20px 0 ;
-} */
+
 
 .our-plants{
   margin-top: 10px;
